@@ -1,0 +1,7 @@
+high_voltage_V counts_per_minute_cpm
+700	2
+800	30
+900	45
+1000	46
+1100	56
+1200	69

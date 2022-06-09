@@ -1,0 +1,10 @@
+trigger_level_mV counts_per_minute_cpm
+200	76
+300	72
+400	52
+500	50
+500	41
+700	29
+800	20
+900	17
+1000	5
