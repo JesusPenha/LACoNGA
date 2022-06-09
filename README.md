@@ -14,5 +14,8 @@ This repository contains files (notebooks and data) from LACoNGA 2021 laboratori
 + Muon Decay with the Water Cherenkov Detector
 + WCD calibration
 
+**2022**
+This folder contains intrumentation practices using the ELVIS III
+
 The file **Remote_Lab_Access** is a notebook for assessing the performance of the remote Labs at 2021
 
